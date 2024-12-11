@@ -2,7 +2,7 @@ Certainly! Here's a basic README.md file that you can use as a guide for setting
 
 ---
 
-# Django Project with Django-Tailwind CSS
+# Intelligent Customer Complaint Classifier with Django-Tailwind CSS and ML
 
 This project is a basic setup for integrating Django with Tailwind CSS using the django-tailwind package.
 
@@ -57,4 +57,4 @@ This project is a basic setup for integrating Django with Tailwind CSS using the
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ---
-# hajj_news_LLM
+# ICC_LLM
